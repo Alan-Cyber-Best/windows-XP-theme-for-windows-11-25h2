@@ -1,0 +1,2 @@
+# windows-XP-theme-for-windows-11-25h2
+1. openshell https://github.com/Open-Shell/Open-Shell-Menu 2. retrobar 1.18 https://github.com/dremin/RetroBar/releases#release-v1.18.56 3. theme https://uxthemepatcher.com/windows-xp-silver-v3-theme-for-windows-11/ 4. windhawk resource reditect and UXtheme hook https://windhawk.net/ 5. themeToolSharp (TTS) https://github.com/namazso/ThemeToolSharp
